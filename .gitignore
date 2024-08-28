@@ -1,0 +1,12 @@
+/files/*
+/mlruns/*
+/processed_files/*
+/latex/*
+sample_submission_5.csv
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+prueba.pptx
+prueba.pdf
+prueba-ppt.pdf
